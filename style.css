@@ -1,0 +1,117 @@
+#body
+{
+    background-image:url(https://images.unsplash.com/photo-1432821596592-e2c18b78144f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8bG9naW58ZW58MHx8MHx8&w=1000&q=80);
+}
+#top{
+    text-align: center;
+    font-family: 'Fjalla One', sans-serif;
+    color: whitesmoke;
+    font-weight:bolder;
+}
+
+#div
+{
+  margin:auto;
+  width:50%;
+  margin-top: 5rem;
+  border-radius: 20px;
+  height: 26rem;
+  background-color: transparent;
+}
+
+#head
+{
+    text-align: center;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 30px;
+    color:white ;
+}
+
+#details
+{
+    margin-left: 4rem;
+    font-family: 'Montserrat', sans-serif;
+    font-size: larger;
+    color:black;
+}
+#box{
+    margin-left: 14.2rem;
+}
+
+#namebox{
+    margin-left: 14.8rem;
+    background-color: transparent;
+    color:black;
+    outline: none;
+    outline-style: none;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: solid black 1px;
+    padding: 3px 10px;
+}
+
+#agebox{
+    margin-left: 15.5rem;
+    background-color: transparent;
+    color:black;
+    outline: none;
+    outline-style: none;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: solid black 1px;
+    padding: 3px 10px;
+}
+
+#emailbox{
+    margin-left: 14.5rem;
+    background-color: transparent;
+    color:black;
+    outline: none;
+    outline-style: none;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: solid black 1px;
+    padding: 3px 10px;
+}
+
+#passwordbox{
+    margin-left: 12.3rem;
+    background-color: transparent;
+    color:black;
+    outline: none;
+    outline-style: none;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: solid black 1px;
+    padding: 3px 10px;
+}
+
+#adbox{
+    margin-left: 13rem;
+    background-color: transparent;
+    color:black;
+    outline: none;
+    outline-style: none;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: solid  black 1px;
+    padding: 3px 10px;
+    }
+
+#button{
+    margin-left: 17rem  ;
+    height: 30px;
+    color: blue;
+
+}
+#addetails
+{
+    margin-left: 4rem;
+    font-family: 'Montserrat', sans-serif;
+    font-size: larger;
+    }
